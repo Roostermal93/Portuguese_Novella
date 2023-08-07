@@ -1,8 +1,29 @@
 {
-    "count": 5,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "2ff069db-23be-4d91-8ae8-478e324543f4",
+            "collectionId": "Portuguese",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Portuguese/2ff069db-23be-4d91-8ae8-478e324543f4_pt_Male.mp4"
+        },
+        {
+            "id": "2540205f-410b-4313-87b2-c6d3748ca22b",
+            "collectionId": "Portuguese",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Portuguese/2540205f-410b-4313-87b2-c6d3748ca22b_pt_Male.mp4"
+        },
+        {
+            "id": "ebbd3633-8aa4-4167-83ad-9ef48dd498c9",
+            "collectionId": "Portuguese",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Portuguese/ebbd3633-8aa4-4167-83ad-9ef48dd498c9_pt_Male.mp4"
+        },
         {
             "id": "7564268b-7d0d-45f8-bec2-5ef8ecc19c7d",
             "collectionId": "Portuguese",
